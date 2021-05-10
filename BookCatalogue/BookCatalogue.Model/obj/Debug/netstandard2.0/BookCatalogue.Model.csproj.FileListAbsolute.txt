@@ -1,0 +1,9 @@
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\bin\Debug\netstandard2.0\BookCatalogue.Model.deps.json
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\bin\Debug\netstandard2.0\BookCatalogue.Model.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.AssemblyInfo.cs
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\bin\Debug\netstandard2.0\BookCatalogue.Model.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Model\obj\Debug\netstandard2.0\BookCatalogue.Model.csprojAssemblyReference.cache

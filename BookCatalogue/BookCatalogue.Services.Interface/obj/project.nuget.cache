@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABsM1MhjA8p+0fxfFdSryPX7dn3QKC0Aft7zoa3gTuXhW8gCX8XXPLUzo9RbZHmxvoyurfnpcovFMKyxQj29hA==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\CodingInterview\\CBA\\BookCatalogue\\BookCatalogue\\BookCatalogue.Services.Interface\\BookCatalogue.Services.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sendn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sendn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sendn\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

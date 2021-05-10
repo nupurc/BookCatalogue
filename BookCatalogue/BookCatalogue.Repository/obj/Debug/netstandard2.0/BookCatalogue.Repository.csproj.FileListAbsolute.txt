@@ -1,0 +1,14 @@
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.csprojAssemblyReference.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.AssemblyInfo.cs
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Repository.deps.json
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Repository.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Model.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Repository.Interface.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Repository.Interface.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Model.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.csproj.CopyComplete
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\bin\Debug\netstandard2.0\BookCatalogue.Repository.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Repository\obj\Debug\netstandard2.0\BookCatalogue.Repository.pdb

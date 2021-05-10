@@ -1,0 +1,16 @@
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Services.deps.json
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Services.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Services.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.csprojAssemblyReference.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.AssemblyInfo.cs
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Model.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Repository.Interface.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Services.Interface.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Repository.Interface.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Services.Interface.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\bin\Debug\netstandard2.0\BookCatalogue.Model.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services\obj\Debug\netstandard2.0\BookCatalogue.Services.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\bin\Debug\netstandard2.0\BookCatalogue.Services.Interface.deps.json
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\bin\Debug\netstandard2.0\BookCatalogue.Services.Interface.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\bin\Debug\netstandard2.0\BookCatalogue.Services.Interface.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.csprojAssemblyReference.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.AssemblyInfoInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.AssemblyInfo.cs
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.csproj.CoreCompileInputs.cache
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\bin\Debug\netstandard2.0\BookCatalogue.Model.dll
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\bin\Debug\netstandard2.0\BookCatalogue.Model.pdb
+D:\Study\CodingInterview\CBA\BookCatalogue\BookCatalogue\BookCatalogue.Services.Interface\obj\Debug\netstandard2.0\BookCatalogue.Services.Interface.csproj.CopyComplete

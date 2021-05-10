@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.12" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NLog" Version="4.7.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookCatalogue.Model\BookCatalogue.Model.csproj" />
+    <ProjectReference Include="..\BookCatalogue.Repository\BookCatalogue.Repository.csproj" />
+    <ProjectReference Include="..\BookCatalogue.Services.Interface\BookCatalogue.Services.Interface.csproj" />
+    <ProjectReference Include="..\BookCatalogue.Services\BookCatalogue.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
